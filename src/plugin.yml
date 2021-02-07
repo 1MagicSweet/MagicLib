@@ -1,0 +1,4 @@
+name: MagicLib
+version: 1.0.6.4
+main: com.magicsweet.bukkitminecraftadditions.Main.Main
+api-version: 1.13
